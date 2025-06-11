@@ -14,6 +14,12 @@ Example
 
 ![image](https://github.com/user-attachments/assets/d6e447ce-41dc-44ec-a7b5-0bd9ccfeeb05)
 
+Generated Post
+
+<img width="1024" alt="image" src="https://github.com/user-attachments/assets/c9fa93cb-2e55-43b7-9d8e-12e9e4c83b31" />
+
+
+
 
 
 ## ✨ Features
