@@ -2,6 +2,20 @@
 
 An AI-powered web application that helps marketing teams and content creators generate high-quality social media posts without writing prompts manually.
 
+## 🚀 Live Demo
+
+🔗 [OPENAI-SELF-SERVE app - Live App](https://openai-selfserve-app.vercel.app/)
+
+Main  Page
+
+![image](https://github.com/user-attachments/assets/fa04d31f-55a5-4035-a2b8-b238aa21c568)
+
+Example
+
+![image](https://github.com/user-attachments/assets/d6e447ce-41dc-44ec-a7b5-0bd9ccfeeb05)
+
+
+
 ## ✨ Features
 
 - **Pre-built Prompt Templates**: Choose from professionally crafted templates for different platforms and tones
