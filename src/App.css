@@ -1,0 +1,30 @@
+/* Additional App-specific styles that complement index.css */
+
+.app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* Enhanced form styling */
+.form-container h2 {
+  color: #374151;
+  margin-bottom: 24px;
+  font-weight: 600;
+}
+
+/* Responsive improvements */
+@media (max-width: 480px) {
+  .form-container {
+    padding: 20px;
+  }
+  
+  .btn {
+    width: 100%;
+    padding: 16px;
+  }
+  
+  .header h1 {
+    font-size: 1.5rem;
+  }
+} 
